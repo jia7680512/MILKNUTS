@@ -10,7 +10,7 @@ import {request} from './assets/js/libs/request.js';
 //全局变量
 Vue.prototype.$config=config;
 Vue.prototype.$request=request;
-
+console.log("111")
 
 new Vue({
     router,
