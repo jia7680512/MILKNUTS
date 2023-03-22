@@ -6,7 +6,7 @@ import router from './router';
 import store from './store';
 import config from './assets/js/conf/config.js';
 import { request } from './assets/js/libs/request.js';
-console.log("测试提交");
+console.log("测试提交222aaa");
 //全局变量
 Vue.prototype.$config = config;
 Vue.prototype.$request = request;
